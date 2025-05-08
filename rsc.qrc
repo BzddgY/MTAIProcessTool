@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/MTAI.ico</file>
+        <file>matlabParula.txt</file>
+        <file>qss/toolpage.qss</file>
+        <file>icon/down-arrow.png</file>
+        <file>icon/left-arrow.png</file>
+        <file>icon/confirmSetting.png</file>
+        <file>icon/LoadDone.png</file>
+        <file>icon/noLoad.png</file>
+        <file>icon/confirm.png</file>
+    </qresource>
+</RCC>
